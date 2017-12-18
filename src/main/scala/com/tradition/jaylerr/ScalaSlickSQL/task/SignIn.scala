@@ -32,12 +32,8 @@ object SignIn {
 
   def tryToSignIn(email:String, password:String): Unit ={
     val res = Await.result(UsersComponent$.getSignIn(email, password), Duration.Inf)
-    if (res == List()){
-      println("Failed to sign in please make sure you have the correct email and password")
-    } else if (res.size > 0){
-      val user = res(0)
-      print("welcome " + user.email + " " + user.name)
-    }
+    res match { case List() => println("Failed to sign in please make sure you have the correct email and password")
+      case res if res.size >= 0 => val user = res(0); print(s"welcome ${user.email} ${user.name}")}
     Thread.sleep(1000)
   }
 }

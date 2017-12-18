@@ -3,7 +3,8 @@ package com.tradition.jaylerr.ScalaSlickSQL.components
 import com.tradition.jaylerr.ScalaSlickSQL.connection.DBComponent
 import com.tradition.jaylerr.ScalaSlickSQL.model.{Users, UsersTable}
 
-import scala.concurrent.Future
+import scala.concurrent.{Await, Future}
+import scala.concurrent.duration.Duration
 
 trait UsersComponent$ extends UsersTable {
 
@@ -25,6 +26,12 @@ trait UsersComponent$ extends UsersTable {
     usersTableQuery.to[List].result
   }
 
+  def getMaxId(): Int = {
+    val user = Await.result(UsersComponent$.getAll, Duration.Inf); Thread.sleep(1000);
+    val u = user(user.size - 1)
+    u.id
+  }
+
   def getSignIn(email: String, password:String) : Future[List[Users]] = db run {
     usersTableQuery.filter(x => x.email === email && x.password === password).to[List].result
   }
@@ -35,6 +42,11 @@ trait UsersComponent$ extends UsersTable {
 
   def sortByUsersName() {
     val sortedNames = usersTableQuery.sortBy(x => x.name)
+    println(sortedNames)
+  }
+
+  def sortByUsersID() {
+    val sortedNames = usersTableQuery.sortBy(x => x.id)
     println(sortedNames)
   }
 
