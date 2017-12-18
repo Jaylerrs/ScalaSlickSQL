@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/src/main/scala/com/tradition/jaylerr/ScalaSignInService/task/SignIn.scala:29:56: This catches all Throwables. If this is really intended, use `case _ : Throwable` to clear this warning.[0m
+[0m[[0m[33mwarn[0m] [0m[0m    try {temp = scala.io.StdIn.readLine()} catch {case _ => temp = "FALSE"}[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                       ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

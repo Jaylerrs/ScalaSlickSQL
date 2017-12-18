@@ -1,0 +1,47 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/scalasigninservice_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/task[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/task/SignIn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/task/SignIn.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/model/Users$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/model/Users$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/connection/MySqlComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/connection/MySqlComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/connection/DBComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/connection/DBComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/model/UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/model/UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/model/Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/model/Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/connection/PostgresDbProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/connection/PostgresDbProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/components[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/components[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/components/UsersComponent$$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/components/UsersComponent$$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/components/UsersComponent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/components/UsersComponent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/task/SignIn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/task/SignIn$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradition/jaylerr/ScalaSignInService/model/UsersTable$UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSignInService/target/scala-2.12/classes/com/tradition/jaylerr/ScalaSignInService/model/UsersTable$UsersTable.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
